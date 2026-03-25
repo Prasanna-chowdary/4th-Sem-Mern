@@ -1,0 +1,16 @@
+var studentName = "Pranathi";
+var age = 18;
+var isStudent = true;
+var valueAny = "Hello";
+valueAny = 100;
+var valueUnknown = "TypeScript";
+valueUnknown = 100;
+var notUsed = undefined;
+var nothing = null;
+console.log("Name:", "Pranathi");
+console.log("Age:", 18);
+console.log("Is Student:", true);
+console.log("Any Value:", 100);
+console.log("Unknown Value:", 200);
+console.log("Void Value:", undefined);
+console.log("Null Value:", null);
